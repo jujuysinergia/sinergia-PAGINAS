@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "logo"
+		},
+		{
+			"path": "marketing"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "plugin-examples"
+		},
+		{
+			"path": "sinergia-platform"
+		},
+		{
+			"path": "store"
+		}
+	]
+}
